@@ -38,7 +38,7 @@
 
 
 						        				<li class="nav-item">
-          					<a class="nav-link " href="#">abou</a>
+          					<a class="nav-link " href="#">about</a>
         				</li>
         				<li class="nav-item">
           					<a class="nav-link" href="#">exam</a>

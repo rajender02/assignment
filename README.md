@@ -18,7 +18,7 @@
 </head>
 <body>
 <h2>SRESHTA EDUTECH</h2>
-		<nav class="navbar navbar-toggler-toggler navbar bg-dark">
+		<nav class="navbar navbar-nav navbar bg-dark">
 			<div class="container-fluid">
 			
 				<button class="navbar-toggler"
@@ -113,10 +113,6 @@
                                 </div></center>
                                 </div>
                             </div>
-                                    
-                                    <p class="card-text">
-                                        10+ Courses available
-                                    </p>
                                 
                             </div>
                                 

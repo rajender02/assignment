@@ -3,7 +3,7 @@
 <head>
 	<title>Edutech</title>
 	
-	<!-- add bootstrap 5 plugins -->
+<!-- add bootstrap 5 plugins -->
 	<meta charset="utf-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1">

@@ -17,7 +17,11 @@
     
 </head>
 <body>
+
+ 
 <h2>SRESHTA EDUTECH</h2>
+<img src="https://sreshtaedutech.netlify.app/assets/images/logo/logo-1.svg" class="w-50 h-50"/>
+	
 		<nav class="navbar navbar-expand-lg navbar-light bg-light">
 			<div class="container-fluid">
 			
@@ -36,7 +40,7 @@
 
 
 						        				<li class="nav-item">
-          					<a class="nav-link " href="#">Pecondary</a>
+          					<a class="nav-link " href="#">about</a>
         				</li>
         				<li class="nav-item">
           					<a class="nav-link" href="#">exam</a>
@@ -47,12 +51,6 @@
 			
 			<button class="btn btn-link"> login </button>
 			<button class="btn btn-link"> SingUp </button>
-			
-
-
-	
-
-		</div>
 
         			</ul>		
 				</div>

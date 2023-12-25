@@ -18,11 +18,11 @@
 </head>
 <body>
 
-		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+		<nav class="navbar navbar-toggler-icon navbar- bg-info">
 			<div class="container-fluid">
 
 
-<h2><B>SRESHTA EDUTECH</B></h2>
+<h2  SRESHTA EDUTECH</B></h2>
 			
 				<button class="navbar-toggler"
 				        data-bs-toggle="collapse"

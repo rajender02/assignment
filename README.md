@@ -25,7 +25,7 @@
 
 
 
-			<a class="navbar-brand" href="#" style="padding: 4px;margin:auto"> <img src="C:\Users\shree\OneDrive\Pictures\a.jpg" style="height:50%;width:50;"</a></br>
+			<a class="navbar-brand" href="#" style="padding: 4px;margin:auto"> <img src="https://sreshtaedutech.netlify.app/assets/images/logo/logo-1.svg" style="height:100%;width:100;"</a></br>
 			
 				<button class="navbar-toggler"
 				        data-bs-toggle="collapse"
@@ -86,8 +86,8 @@
                 </div>
                 <div class="col-lg-6" data-aos="fade-up">
                     <div class="banner-image mb-40">
-                        <img class="lazyload blur-up" src="C:\Users\shree\OneDrive\Pictures\bb.jpg" style="height:75%;width:75%;
-                            data-src="C:\Users\shree\OneDrive\Pictures\bb.jpg"alt="Banner Image">
+                        <img class="lazyload blur-up" src="https://sreshtaedutech.netlify.app/assets/images/banner/hero-banner-1.png" style="height:75%;width:75%;
+                            data-src="https://sreshtaedutech.netlify.app/assets/images/banner/hero-banner-1.png" alt="Banner Image">
                     </div>
                 </div>
             </div>
@@ -108,8 +108,8 @@
                 <div class="col-12" data-aos="fade-up">
                                            <center>      <div class="card p-25 border radius-md">
                                     <div class="card-img mb-40">
-                                        <img class="lazyload" src="C:\Users\shree\Downloads\robotics.jpeg"
-                                            data-src="C:\Users\shree\Downloads\robotics.jpeg" alt="products">
+                                        <img class="lazyload" src="https://sreshtaedutech.netlify.app/assets/images/products/Robotics.png"
+                                            data-src="https://sreshtaedutech.netlify.app/assets/images/products/Robotics.png" alt="products">
                                     </div>
                                     <h5 class="card-title lc-1 mb-1">
                                         <a href='/Robotics'>
@@ -125,9 +125,10 @@
                             
                                 <div class="card p-25 border radius-md">
                                  <center>   <div class="card-img mb-20">
-                                      <img class="lazyload" src="C:\Users\shree\Downloads\lifeskills.png"
-                                            data-src="C:\Users\shree\Downloads\lifeskills.png" alt="products">
+                                      <img class="lazyload" src="https://sreshtaedutech.netlify.app/assets/images/products/lifeskills.PNG"
+                                            data-src="https://sreshtaedutech.netlify.app/assets/images/products/lifeskills.PNG>
                                     </div>
+                                </br>
                                     <h5 class="card-title lc-1 mb-1">
                                         <a href='/Life Skills'>
                                             Skill Education
@@ -143,8 +144,8 @@
                                     <center>
                                     	<div class="col-md-7">
                                     	<div class="card-img mb-20">
-                                        <img class="lazyload" src="C:\Users\shree\Downloads\IIT.png"
-                                            data-src="C:\Users\shree\Downloads\IIT.png" alt="products">
+                                        <img class="lazyload" src="https://sreshtaedutech.netlify.app/assets/images/products/IIT.png" alt="products"
+                                            data-src="https://sreshtaedutech.netlify.app/assets/images/products/IIT.png" alt="products">
                                     </div>
                                     <h5 class="card-title lc-1 mb-1">
                                         <a href= '/IIT'>
@@ -160,8 +161,8 @@
                            
                                 <div class="card p-25 border radius-md">
                                    <center> <div class="card-img mb-20">
-                                       <img class="align-items-center" src="C:\Users\shree\Downloads\StateBoard.png"
-                                            data-src="C:\Users\shree\Downloads\StateBoard.png" alt="products">
+                                       <img class="align-items-center" src="https://sreshtaedutech.netlify.app/assets/images/products/StateBoard.png"
+                                            data-src="https://sreshtaedutech.netlify.app/assets/images/products/StateBoard.png" alt="products">
                                     </div>
                                     <p class="card-icon lc-1 mb-1">
                                         <a href='/StateBoards'>
@@ -177,8 +178,8 @@
                             
                               <center>  <div class="card p-25 border radius-md">
                                     <div class="card-img mb-20">
-                                        <img class="lazyload" src="C:\Users\shree\Downloads\CBSE.png"
-                                            data-src="C:\Users\shree\Downloads\CBSE.png" alt="products">
+                                        <img class="lazyload" src="https://sreshtaedutech.netlify.app/assets/images/products/CBSE.png"
+                                            data-src="https://sreshtaedutech.netlify.app/assets/images/products/CBSE.png" alt="products">
                                     </div>
                                     <p class="card-title lc-1 mb-1">
                                         <a href='/cbse' target='_self' title='CBSE'>
@@ -206,7 +207,7 @@
 
                 <div class="row">
                     <div class="col-md-7">
-                        <img src="C:\Users\shree\OneDrive\Pictures\ccc.jpg">
+                        <img src="https://sreshtaedutech.netlify.app/assets/images/about-1.png">
 <br>
 <div class="content-text">
     <p>Our goal is to empower learners of all backgrounds and abilities to reach their full potential by equipping them with the knowledge, skills, and support they need to succeed.
@@ -313,7 +314,8 @@ Whether you are starting a new topic or revising an old one, Sreshta Edutech Min
                                                     </div>
                                                     <div class="timeline-dot fb-bg"></div>
                                                     <div class="timeline-content">
-                                                        <img class="lazyload" src="C:\Users\shree\Downloads\learn.png">
+                                                        <img class="lazyload" src="https://sreshtaedutech.netlify.app/assets/images/learn.png">
+                                                
                                                     </div>
                                                 </div>
                                                 <div class="timeline-row">
@@ -326,7 +328,7 @@ Whether you are starting a new topic or revising an old one, Sreshta Edutech Min
                                                     </div>
                                                     <div class="timeline-dot green-one-bg"></div>
                                                     <div class="timeline-content green-one">
-                                                        <img class="lazyload" src="C:\Users\shree\Downloads\mindmaps.png">
+                                                        <img class="lazyload" src="https://sreshtaedutech.netlify.app/assets/images/mindmaps.png">
                                                     </div>
                                                 </div>
                                                 <div class="timeline-row">
@@ -340,7 +342,7 @@ Whether you are starting a new topic or revising an old one, Sreshta Edutech Min
                                                     </div>
                                                     <div class="timeline-dot green-two-bg"></div>
                                                     <div class="timeline-content green-two">
-                                                        <img class="lazyload" src="C:\Users\shree\Downloads\videolecture.png">
+                                                        <img class="lazyload" src="https://sreshtaedutech.netlify.app/assets/images/videolecture.PNG">
                                                     </div>
                                                 </div>
                                                 <div class="timeline-row">
@@ -356,7 +358,7 @@ Whether you are starting a new topic or revising an old one, Sreshta Edutech Min
                                                     </div>
                                                     <div class="timeline-dot green-three-bg"></div>
                                                     <div class="timeline-content green-three">
-                                                        <img class="lazyload" src="C:\Users\shree\Downloads\quiz.png">
+                                                        <img class="lazyload" src="https://sreshtaedutech.netlify.app/assets/images/quiz.PNG">
                                                     </div>
                                                 </div>
                                                 <div class="timeline-row">
@@ -368,7 +370,7 @@ Whether you are starting a new topic or revising an old one, Sreshta Edutech Min
                                                     </div>
                                                     <div class="timeline-dot green-four-bg"></div>
                                                     <div class="timeline-content green-four">
-                                                        <img class="lazyload" src="C:\Users\shree\Downloads\reports.png">
+                                                        <img class="lazyload" src="https://sreshtaedutech.netlify.app/assets/images/reports.PNG">
                                                        
 
                                                     </div>

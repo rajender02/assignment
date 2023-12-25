@@ -14,8 +14,6 @@
 
     <!-- Bootstrap Font Icon CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
-
- <link rel="stylesheet" href="c.css">
     
 </head>
 <body>
@@ -25,7 +23,7 @@
 
 
 
-			<a class="navbar-brand" href="#" style="padding: 4px;margin:auto"> <img src="https://sreshtaedutech.netlify.app/assets/images/logo/logo-1.svg" style="height:50%;width:50%;"</a></br>
+			<a class="navbar-brand" href="#" style="padding: 4px;margin:auto"> <img src="https://sreshtaedutech.netlify.app/assets/images/logo/logo-1.svg" style="height:100%;width:100%;"</a></br>
 			
 				<button class="navbar-toggler"
 				        data-bs-toggle="collapse"

@@ -18,7 +18,7 @@
 </head>
 <body>
 
-		<nav class="navbar navbar-toggler-icon navbar- bg-info">
+		<nav class="navbar navbar-toggler-icon navbar bg-primary-light">
 			<div class="container-fluid">
 
 

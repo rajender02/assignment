@@ -23,7 +23,7 @@
 
 
 
-			<a class="navbar-brand" href="#" style="padding: 4px;margin:auto"> <img src="https://sreshtaedutech.netlify.app/assets/images/logo/logo-1.svg" style="height:100%;width:100%;"</a></br>
+			<a class="navbar-brand" href="#" style="padding: 4px;margin:auto"> <img class="lazyload" src="https://sreshtaedutech.netlify.app/assets/images/logo/logo-1.svg" style="height:100%;width:100%;"</a></br>
 			
 				<button class="navbar-toggler"
 				        data-bs-toggle="collapse"
@@ -120,10 +120,7 @@
                                 </div>
                             </div>
                             
-                                <div class="card p-25 border radius-md">
-                                 <center>   <div class="card-img mb-20">
-                                      <img class="lazyload" src="https://sreshtaedutech.netlify.app/assets/images/products/lifeskills.PNG" data-src="https://sreshtaedutech.netlify.app/assets/images/products/lifeskills.PNG>
-                                    </div>
+                                
                                 </br>
                                     <h5 class="card-title lc-1 mb-1">
                                         <a href='/Life Skills'>
@@ -133,8 +130,7 @@
                                     <p class="card-text">
                                         10+ Courses available
                                     </p>
-                                </center>
-                                </div>
+                                
                             </div>
                                 
                                     <center>
@@ -164,12 +160,12 @@
                                         <a href='/StateBoards'>
                                             State Boards Curriculum
                                         </a></p>
-                                    </h5>
+                                
                                     <p class="card-text">
                                         10+ Courses available
                                     </p>
                                 </center>
-                                </div>
+                            
                             </div>
                             
                               <center>  <div class="card p-25 border radius-md">
@@ -188,7 +184,7 @@
 
                         
                 
-                </div>
+            
             </div>
    <section class="about-area about-area_v1 pt-100 pb-60 bg-primary-light">
         <div class="container">

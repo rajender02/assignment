@@ -20,7 +20,6 @@
 
  
 <h2>SRESHTA EDUTECH</h2>
-<img src="https://sreshtaedutech.netlify.app/assets/images/logo/logo-1.svg" class="w-50 h-50"/>
 	
 		<nav class="navbar navbar-expand-lg navbar-light bg-light">
 			<div class="container-fluid">
@@ -54,6 +53,7 @@
 
         			</ul>		
 		</div>
+  </div
 		</nav>
 
 		 <section class="hero-banner hero-banner_v1 header-next pb-60">

@@ -31,7 +31,6 @@
 					<span class="navbar-toggler-icon"></span>
 				</button>
 				<div class="collapse navbar-collapse" id="navbarId">
-                    <h2>SRESHTA EDUTECH</h2>
 					<ul class="navbar-nav ">
         				<li class="nav-item">
           					<a class="nav-link " href="#">Product</a>
@@ -39,7 +38,7 @@
 
 
 						        				<li class="nav-item">
-          					<a class="nav-link " href="#">Pecondary</a>
+          					<a class="nav-link " href="#">abou</a>
         				</li>
         				<li class="nav-item">
           					<a class="nav-link" href="#">exam</a>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="eng">
 <head>
 	<title>Edutech</title>
@@ -25,7 +25,7 @@
 
 
 
-			<a class="navbar-brand" href="#" style="padding: 4px;margin:auto"> <img src="https://sreshtaedutech.netlify.app/assets/images/logo/logo-1.svg" style="height:100%;width:100;"</a></br>
+			<a class="navbar-brand" href="#" style="padding: 4px;margin:auto"> <img src="https://sreshtaedutech.netlify.app/assets/images/logo/logo-1.svg" style="height:50%;width:50%;"</a></br>
 			
 				<button class="navbar-toggler"
 				        data-bs-toggle="collapse"
@@ -380,9 +380,4 @@ Whether you are starting a new topic or revising an old one, Sreshta Edutech Min
                                         </div>
                                     </div>
     </section>
-
-
-    
-</body>
-</html>
 

@@ -79,7 +79,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+
 
     <section class="category-area category-area_v1 pb-100">
         <div class="container">

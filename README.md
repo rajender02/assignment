@@ -18,7 +18,7 @@
 </head>
 <body>
 <h2>SRESHTA EDUTECH</h2>
-		<nav class="navbar navbar-toggler-icon navbar bg-dark">
+		<nav class="navbar navbar-toggler-toggler navbar bg-dark">
 			<div class="container-fluid">
 			
 				<button class="navbar-toggler"

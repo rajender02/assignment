@@ -54,7 +54,6 @@
 
         			</ul>		
 				</div>
-			</div>
 		</nav>
 
 		 <section class="hero-banner hero-banner_v1 header-next pb-60">

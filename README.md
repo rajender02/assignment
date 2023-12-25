@@ -18,11 +18,8 @@
 </head>
 <body>
 
-		<nav class="navbar navbar-toggler-icon navbar bg-primary-light">
+		<nav class="navbar navbar-toggler-icon navbar bg-info">
 			<div class="container-fluid">
-
-
-<h2  SRESHTA EDUTECH</B></h2>
 			
 				<button class="navbar-toggler"
 				        data-bs-toggle="collapse"
@@ -31,6 +28,7 @@
 					<span class="navbar-toggler-icon"></span>
 				</button>
 				<div class="collapse navbar-collapse" id="navbarId">
+                    <h2>SRESHTA EDUTECH</h2>
 					<ul class="navbar-nav ">
         				<li class="nav-item">
           					<a class="nav-link " href="#">Product</a>

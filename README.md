@@ -84,8 +84,7 @@
                 </div>
                 <div class="col-lg-6" data-aos="fade-up">
                     <div class="banner-image mb-40">
-                        <img class="lazyload blur-up" src="https://sreshtaedutech.netlify.app/assets/images/banner/hero-banner-1.png" style="height:75%;width:75%;
-                            data-src="https://sreshtaedutech.netlify.app/assets/images/banner/hero-banner-1.png" alt="Banner Image">
+                        
                     </div>
                 </div>
             </div>
@@ -123,8 +122,7 @@
                             
                                 <div class="card p-25 border radius-md">
                                  <center>   <div class="card-img mb-20">
-                                      <img class="lazyload" src="https://sreshtaedutech.netlify.app/assets/images/products/lifeskills.PNG"
-                                            data-src="https://sreshtaedutech.netlify.app/assets/images/products/lifeskills.PNG>
+                                      <img class="lazyload" src="https://sreshtaedutech.netlify.app/assets/images/products/lifeskills.PNG" data-src="https://sreshtaedutech.netlify.app/assets/images/products/lifeskills.PNG>
                                     </div>
                                 </br>
                                     <h5 class="card-title lc-1 mb-1">
@@ -187,18 +185,11 @@
                                     <p class="card-text">
                                         100+ Courses available
                                     </p>
-                                </div>
-                            </div>
-                        </div>
+
                         
                 
                 </div>
             </div>
-        </div>
-
-        
-    </section>
-
    <section class="about-area about-area_v1 pt-100 pb-60 bg-primary-light">
         <div class="container">
             <div class="row">

@@ -22,8 +22,7 @@
 			<div class="container-fluid">
 
 
-
-			<a class="navbar-brand" href="#" style="padding: 4px;margin:auto"> <img class="lazyload" src="https://sreshtaedutech.netlify.app/assets/images/logo/logo-1.svg" style="height:100%;width:100%;"</a></br>
+<h2><B>SRESHTA EDUTECH</B></h2>
 			
 				<button class="navbar-toggler"
 				        data-bs-toggle="collapse"
@@ -34,21 +33,18 @@
 				<div class="collapse navbar-collapse" id="navbarId">
 					<ul class="navbar-nav ">
         				<li class="nav-item">
-          					<a class="nav-link active" href="#">Product</a>
+          					<a class="nav-link " href="#">Product</a>
         				</li>
 
 
-						<li class="nav-item">
-          					<a class="nav-link active"href="#">Primary</a>
+						        				<li class="nav-item">
+          					<a class="nav-link " href="#">Pecondary</a>
         				</li>
         				<li class="nav-item">
-          					<a class="nav-link active" href="#">Secondary</a>
+          					<a class="nav-link" href="#">exam</a>
         				</li>
         				<li class="nav-item">
-          					<a class="nav-link active" href="#">exam</a>
-        				</li>
-        				<li class="nav-item">
-          					<a class="nav-link active" href="#">Features</a>
+          					<a class="nav-link" href="#">Features</a>
         				</li>
 			
 			<button class="btn btn-link"> login </button>
@@ -119,14 +115,7 @@
                                 </div></center>
                                 </div>
                             </div>
-                            
-                                
-                                </br>
-                                    <h5 class="card-title lc-1 mb-1">
-                                        <a href='/Life Skills'>
-                                            Skill Education
-                                        </a>
-                                    </h5>
+                                    
                                     <p class="card-text">
                                         10+ Courses available
                                     </p>
@@ -147,8 +136,7 @@
                                     <p class="card-text">
                                         10+ Courses available
                                     </p>
-                                </center>
-                                </div>
+                                
                             </div>
                            
                                 <div class="card p-25 border radius-md">
@@ -364,5 +352,4 @@ Whether you are starting a new topic or revising an old one, Sreshta Edutech Min
 
                                         </div>
                                     </div>
-    </section>
 

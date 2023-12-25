@@ -17,8 +17,8 @@
     
 </head>
 <body>
-
-		<nav class="navbar navbar-toggler-icon navbar bg-info">
+<h2>SRESHTA EDUTECH</h2>
+		<nav class="navbar navbar-toggler-icon navbar bg-dark">
 			<div class="container-fluid">
 			
 				<button class="navbar-toggler"
@@ -28,7 +28,7 @@
 					<span class="navbar-toggler-icon"></span>
 				</button>
 				<div class="collapse navbar-collapse" id="navbarId">
-                    <h2>SRESHTA EDUTECH</h2>
+                    
 					<ul class="navbar-nav ">
         				<li class="nav-item">
           					<a class="nav-link " href="#">Product</a>
